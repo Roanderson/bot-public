@@ -1,0 +1,2 @@
+# bot-public
+ajuda terminar
